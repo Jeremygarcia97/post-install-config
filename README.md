@@ -93,20 +93,43 @@ Select the Access Tab, under Primary Departmen give jane SysAdmins and then Surp
 -follow the same steps with make janes account, The only thing that is change is when you choose his deparments you sill select "support" and "view only" and hit create. 
 
 
+![image](https://github.com/user-attachments/assets/90885544-023e-4377-8d71-7a812f25cb16)
+![image](https://github.com/user-attachments/assets/9c4414b9-f2de-4899-86f1-a2db96d43453)
 
+Configure User- Select User tab to create a user, Email-karen@lognpacific.com, name- Karen and select add User.
+
+![image](https://github.com/user-attachments/assets/d7ae20bc-70d8-4c05-b3e4-9bf86726c58d)
+![image](https://github.com/user-attachments/assets/45d61242-d0eb-4cb0-8bb6-5f8fea1b1083)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Service Level Agreements(SLA)- We will create three SLAs, Select Manage tab> SLA> Add New SLA Plan. Name: Sev-A. Grace Period:1,Schedule: 24/7. 
 </p>
 
+![image](https://github.com/user-attachments/assets/7f44343f-e3a7-45f5-b34f-f7faefb26522)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+- Name: SEV-B
+- Grace Period: 4
+- Schedule dropdown menu: 24/7
+- Select Add Plan.
 </p>
+
+![image](https://github.com/user-attachments/assets/0983f55f-8c7f-49a1-af0f-c259246c8a40)
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Name: SEV-C 
+- Grace Period: 8
+- Schedule dropdown menu: Monday - Friday 8AM - 5PM with U.S. Holidays
+- Select Add Plan.
+</p>
+
+![image](https://github.com/user-attachments/assets/6504434d-70f8-458f-afc6-35eaea826f2d)
+
+<p>
+Configure Help topics- Create 5 hlep topics. Select Manage tab> Help Tpoics> Add New Help Topics. Business Critical Outage,
+Personal Computer Issues,
+Equipment Request,
+Password Reset,
+Other. Select Add topic for each topic.
 </p>
 
 <p>
