@@ -78,12 +78,22 @@ Configure Agents- Select the Agent tab then click Add New Agents.
 </p>
 
 ![image](https://github.com/user-attachments/assets/ed62a7b2-69f7-4faf-a7b7-6e2da0bd2f28)
+![image](https://github.com/user-attachments/assets/a9aea54d-d983-417a-a552-8f43bd48e439)
 ![image](https://github.com/user-attachments/assets/98179b95-3a8e-46c2-952f-272288682ca9)
 ![image](https://github.com/user-attachments/assets/6a40ed2d-04b4-4999-ae82-480427a15797)
 
-First Agent- Name: Jane Doe, Email: Jane@loginpacific.com, Username: jane
+First Agent- Name: Jane Doe, Email: Jane@loginpacific.com, Username: jane. Click Set password and unckeck the box where it says "send the agent a Password Reset Email", set the password to what you like and uncheck the bix that says "Require Password Change at Next Login" and then hit Set. 
 
 Select the Access Tab, under Primary Departmen give jane SysAdmins and then Surpreme Admin, Click the tab thats says team and assigned jane to online banking and select create. 
+
+![image](https://github.com/user-attachments/assets/7f4356bd-731f-4caa-962a-a453b28864af)
+![image](https://github.com/user-attachments/assets/c0e13b11-6477-4e85-abab-54339c338ca6)
+
+-Second Agent- Replace jane with john.
+-follow the same steps with make janes account, The only thing that is change is when you choose his deparments you sill select "support" and "view only" and hit create. 
+
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
